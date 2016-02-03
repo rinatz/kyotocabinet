@@ -3,4 +3,4 @@ description "Deimos Bindings for kyotocabinet."
 copyright "Copyright © 2016, Kenichiro IDA"
 authors "Kenichiro IDA"
 importPaths "."
-targetType sourceLibrary
+targetType "sourceLibrary"
