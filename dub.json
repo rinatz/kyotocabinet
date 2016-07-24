@@ -1,0 +1,13 @@
+{
+    "authors": [
+        "Kenichiro IDA"
+    ],
+    "importPaths": [
+        "."
+    ],
+    "name": "kyotocabinet",
+    "targetType": "sourceLibrary",
+    "license": "LGPL-2.1",
+    "copyright": "Copyright © 2016, Kenichiro IDA",
+    "description": "Deimos Bindings for kyotocabinet."
+}
