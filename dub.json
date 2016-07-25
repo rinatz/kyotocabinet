@@ -1,13 +1,13 @@
 {
+    "name": "kyotocabinet",
+    "description": "Deimos Bindings for kyotocabinet.",
+    "license": "public domain",
+    "copyright": "Copyright (C) 2009-2012 FAL Labs",
     "authors": [
         "Kenichiro IDA"
     ],
     "importPaths": [
         "."
     ],
-    "name": "kyotocabinet",
-    "targetType": "sourceLibrary",
-    "license": "LGPL-2.1",
-    "copyright": "Copyright © 2016, Kenichiro IDA",
-    "description": "Deimos Bindings for kyotocabinet."
+    "targetType": "sourceLibrary"
 }
